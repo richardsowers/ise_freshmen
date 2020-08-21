@@ -21,3 +21,5 @@ Computing projects for 2020 incoming freshmen
     + URL requests
     + json
 
+Available at <https://richardsowers.github.io/ise_freshmen/>
+
